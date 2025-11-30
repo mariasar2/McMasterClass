@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment2</title>
+    <link rel="stylesheet" href="./styles.css">
+
+</head>
+<body>
+    <!-- Header Starts Here -->
+     <div class="main">
+        <header>
+             <img src="../Project1/assets/logo.png" alt="Logo image is of an orange cirle with a white J in the middle">
+        <!-- Navigation Starts Here -->
+         <nav>
+            <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+         </nav>
+            <h1>The Journal</h1>
+        </header>
+     </div>
+
+    <!-- Main Content Starts Here -->
+        <!-- About Section Starts Here -->
+         <div class="about">
+            <img src="../Project1/assets/image1.jpg" alt="Man standing on a peak carrying a Norwegian flag at sunrise">
+            <h2>About</h2>
+            <p>Manifestation spirit guides quartz, Reiki practitioner stones oracle peace nealer goddess sage charms. Energy healing pendulum meditate divination practitioner candles chanting massage Buddha. Divine Light Worker herbalist, lavender love compassion practitioner pendulum massage fibonacci sage. Dance peace angels awakening Love Flower of Life tarot shamantic. Quartz spirit guides divination peace, herbalist chakra clearing full moon shamantic card readings oracle enlighten empath charms lavendar.</p>
+            <a href="#">Say Hello</a>
+         </div>
+
+        <!-- LV2 Image Gallery Section Starts Here-->
+         <h2>Gallery</h2>
+
+         <!-- Row 1 of this gallery -->
+        <div class="lv2Gallery">
+            <div class="galleryItemR1">
+                <a href="../Project1/assets/image6.jpg">
+                 <img src="../Project1/assets/image6.jpg" alt="sepia-toned photo of a planes wing taken through the aircraft window">
+                </a>
+            </div>
+            <div class="galleryItemR1">
+                <a href="../Project1/assets/image7.jpg">
+                    <img src="../Project1/assets/image7.jpg" alt="lake and small cabin in a snow covered woods">
+                </a>
+            </div>
+            <div class="galleryItemR1">
+                <a href="../Project1/assets/image8.jpg">
+                    <img src="../Project1/assets/image8.jpg" alt="Grand Canyon">
+                </a>
+            </div>
+            <!-- Row 2 of this gallery -->
+            <div class="galleryItemR2">
+                <a href="../Project1/assets/image9.jpg">
+                    <img src="../Project1/assets/image9.jpg" alt="overhead view of a hill and dense coastal city of red roofs and white buildings">
+                </a>
+            </div>
+            <div class="galleryItemR2">
+                <a href="../Project1/assets/image10.jpg">
+                    <img src="../Project1/assets/image10.jpg" alt="Trevi Fountain in Italy featuring central statue of Oceanus in a shell-shaped chariot, pulled by two sea horses">
+                </a>
+            </div>
+        </div>
+        <!-- Destinations Section Starts Here -->
+         <div class="destinations">
+            <h2>36/127</h2>
+            <p>Destinations Reached</p>
+         </div>
+
+        <!-- Latest Section Starts Here -->
+         <div class="latest">
+            <h2>Latest</h2>
+            <ul>
+                <li>
+                    <img src="../Project1/assets/image3.jpg" alt="Red suspension bridge against a pale blue sky">
+                    <h3>Golden State</h3>
+                    <p>Feb 26</p>
+                    <!-- Placeholder for a link to a new blog page -->
+                    <a href="#"></a> 
+                </li>
+                <li>
+                    <img src="../Project1/assets/image4.jpg" alt="Overhead rooves for a residential neighbourhood">
+                    <h3>11 Cities in 12 Days</h3>
+                    <p>Feb 1</p>
+                    <!-- Placeholder for a link to a new blog page -->
+                    <a href="#"></a>
+                </li>
+                <li>
+                    <img src="../Project1/assets/image5.jpg" alt="A white building featuring traditional Moroccan architecture">
+                    <h3>Year in Awe</h3>
+                    <p>Jan 27</p>
+                    <!-- Placeholder for a link to a new blog page -->
+                    <a href=""></a>
+                </li>
+            </ul>
+         </div>
+
+    <!-- Footer Starts Here -->
+     <div class="footer">
+        <img src="../Project1/assets/logo.png" alt="Logo image is of an orange cirle with a white J in the middle">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact</a></li>
+            <p>Created at Juno College of Technology</p>
+        </ul>
+     </div>
+</body>
+</html>
